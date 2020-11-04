@@ -1,0 +1,12 @@
+/*list style mastercard section */ 
+
+.mastercard {
+	background: #F6DAC8;
+	margin: 0px; 
+	padding-left: 25px; 
+}
+
+.mastercard-font {
+	font-family: 'Courgette', cursive;
+	font-size: 15px;
+}

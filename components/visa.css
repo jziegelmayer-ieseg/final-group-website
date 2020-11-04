@@ -1,0 +1,10 @@
+/* list style Visa section */ 
+
+.visa {
+	background: #EDCFA9;
+	margin: 0px;
+	width: 170px;
+	margin-left: 25px; 
+	padding-left: 25px; 
+	padding-right: 25px;
+}

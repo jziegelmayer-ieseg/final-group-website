@@ -1,0 +1,25 @@
+/* list style fees section*/
+.fees { 
+	background: #F6DAC8;
+	margin-top: : 0px;
+	margin-bottom: 0px;  
+}
+
+.table {
+	width: 80%; 
+	margin: auto;
+}
+.fees-courgette {
+	font-size: 18px;
+}
+
+.fees-bold {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.fees-light {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+}

@@ -1,0 +1,15 @@
+/* list style News section*/ 
+
+.news {
+	background: #E89F71;
+	margin-left: 1150px; 
+	width: 150px; 
+	padding-left: 25px; 
+	padding-right: 25px; 
+	padding-top: 3px;
+	padding-bottom: 3px; 
+}
+
+.news-text {
+	text-justify: center;
+}

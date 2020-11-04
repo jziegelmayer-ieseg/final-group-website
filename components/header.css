@@ -1,0 +1,28 @@
+
+/*list style header section*/
+
+.header {
+  background: #F6DAC8;
+  padding: 2px 0px;
+  height: 60px;
+  left: 0px;
+  top: 59px;
+}
+
+.header-title {
+	list-style: none;
+	font-size: 18px;
+	color: #074A35;
+	font-family: 'Courgette', cursive;
+}
+
+.header-title ul {
+	text-align: center;
+}
+
+.header-title li {
+	display: inline;
+}
+
+
+

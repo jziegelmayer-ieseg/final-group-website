@@ -1,0 +1,30 @@
+/*list style summary-order section*/
+
+.summary-order {
+	background: #F8ECDD;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.list-order {
+	list-style: none;
+	display: inline;
+	margin: 0px;
+}
+
+#mini-dress {
+	width: 80px;
+}
+
+.summary-order-courgette {
+	font-size: 18px;
+}
+
+.summary-order-courgette-small {
+	font-size: 14px;
+}
+
+.table {
+	width: 80%;
+	margin: auto;
+}

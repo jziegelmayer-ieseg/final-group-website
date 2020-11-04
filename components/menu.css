@@ -1,0 +1,21 @@
+.menu {
+  padding: 2px 0px;
+  height: 52px;
+  left: 0px;
+  top: 59px;
+  background: rgba(232, 159, 113, 0.39);
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.icone-menu-left {
+  float: left;
+}
+
+.icone-menu-right {
+  float: right;
+}
+
+
+
+

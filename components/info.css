@@ -1,0 +1,16 @@
+ /* list style info section */
+
+.info {
+	margin: 0px;
+	padding-left: 25px;
+}
+
+.fasfa-lock {
+	top: 59px;
+	width: 2px;
+}
+
+.info-font {
+	font-family: 'Courgette', cursive;
+	font-size: 10px;
+}

@@ -1,0 +1,12 @@
+/* list style paypal section */
+
+.paypal {
+	background: #F8ECDD;;
+	margin: 0px; 
+	padding-left: 25px; 
+}
+
+.paypal-font {
+	font-family: 'Courgette', cursive;
+	font-size: 15px;
+}

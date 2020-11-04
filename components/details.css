@@ -1,0 +1,14 @@
+/* list style details section*/ 
+
+.box {
+	background: #F8F1EE;
+	color: #E1BFB5;
+	margin-right: 850px;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	padding-left: 5px; 
+}
+
+.details {
+	margin-left: 25px; 
+}
