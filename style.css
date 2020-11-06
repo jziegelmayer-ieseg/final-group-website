@@ -189,6 +189,21 @@ ul {
   padding-bottom: 40px;
 }
 
+/*About us*/
+
+.about-us p {
+  font-size: 20px;
+  text-align: center;
+  margin: 50px;
+}
+
+#video-table td {
+  text-align: center;
+}
+
+#video-table {
+  margin: auto;
+}
 
 
 
