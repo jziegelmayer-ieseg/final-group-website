@@ -1,7 +1,6 @@
-
 /*list style header section*/
 
-.header {
+.header-payment {
   background: #F6DAC8;
   padding: 2px 0px;
   height: 60px;
@@ -9,19 +8,19 @@
   top: 59px;
 }
 
-.header-title {
-	list-style: none;
-	font-size: 18px;
-	color: #074A35;
-	font-family: 'Courgette', cursive;
+.header-payment-title {
+  list-style: none;
+  font-size: 18px;
+  color: #074A35;
+  font-family: 'Courgette', cursive;
 }
 
-.header-title ul {
-	text-align: center;
+.header-payment-title ul {
+  text-align: center;
 }
 
-.header-title li {
-	display: inline;
+.header-payment-title li {
+  display: inline;
 }
 
 
