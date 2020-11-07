@@ -1,12 +1,13 @@
 /* list style fees section*/
-.fees { 
+
+.fees {
 	background: #F6DAC8;
 	margin-top: : 0px;
-	margin-bottom: 0px;  
+	margin-bottom: 0px;
 }
 
 .table {
-	width: 80%; 
+	width: 80%;
 	margin: auto;
 }
 .fees-courgette {

@@ -1,3 +1,5 @@
+/* list style card dress section */
+
 .cards {
   display: flex;
   flex-wrap: wrap;
@@ -32,6 +34,7 @@
 }
 
 /*card dress page */
+
 #white-dress img {
   width: 225px;
 }
