@@ -13,4 +13,9 @@
   padding-right: 100px;
   padding-left: 100px;
   display: inline;
+  margin-left: 20px;
+}
+
+.title-payment-title {
+  padding-left:20px;
 }
