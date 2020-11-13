@@ -39,6 +39,7 @@
 @import url("components/drop-down-menu.css");
 @import url("components/contact-us.css");
 @import url("components/workshop.css");
+@import url("components/loggin-form.css");
 
 
 
@@ -48,7 +49,7 @@
 
 body {
   font-family: 'Courgette', cursive;
-  font-size: 10px;
+  font-size: 20px;
   color:#074A35;
   margin: 0px;
 }
