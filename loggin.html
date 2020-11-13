@@ -52,9 +52,7 @@
       <a href="collection.html">
         <li>The collection</li>
       </a>
-      <a href="workshop.html">
-        <li>Our workshop</li>
-      </a>
+      <li>Our workshop</li>
       <a href="aboutus.html">
         <li>Get to know us</li>
       </a>
@@ -106,59 +104,50 @@
 
 </div>
 
-<!-- Starting the container section -->
+<!-- début create account -->
 
-<div class="container">
+<form action="paymentpage.html" method="post">
 
-  <!--CREATE-->
-  <div class=" create">
-    <!--details-->
-    <div class="details">
-      <div>
-        <a href="details-font" class="details-font-big">Create your account</a>
-      </div>
-      <div>
-        <a href="details-font" class="details-font-small"> Please enter your email address</a>
-        <p class="box"> email address </p>
-      </div>
+  <div class="container">
+    <label for="uname"><b>Create your account</b></label>
+    <input type="email" placeholder="Enter your email address " name="uname" required>
 
-      <!--create account button-->
-    </div>
-    <div class="create-button">
-
-      <h3 class="create-button-text"> Create account </h3>
-
-    </div>
+    <button type="submit">Create account</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
   </div>
+</form>
 
-  <!--REGISTERED-->
-  <div class=" registered">
-    <!--details-->
-    <div class="details">
-      <div>
-        <a href="details-font" class="details-font-big">Already registered ?</a>
-      </div>
-      <div>
-        <a href="details-font" class="details-font-small"> Email address</a>
-        <p class="box"> email address </p>
-      </div>
-      <div>
-        <a href="details-font" class="details-font-small"> Password</a>
-        <p class="box"> Password </p>
-      </div>
+<div class="title-login">
 
-
-      <!-- Sign in button-->
-    </div>
-    <div class="signin-button">
-      <a href="paymentpage.html">
-        <h3 class="signin-text"> Sign In </h3>
-      </a>
-
-    </div>
-  </div>
+  <h1 class="title-login-title"> Already registrated? </h1>
 
 </div>
+
+<!-- début already registreted -->
+
+<form action="paymentpage.html" method="post">
+  <div class="imgcontainer">
+    <img src="images/photo-de-moi.jpg" alt="Avatar" class="avatar">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" pattern="[a-zA-Z]*" title="Your username can't contain numbers" placeholder="Enter Username" name="uname" required/>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required/>
+    <button type="submit">Login</button>
+
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+
+  </div>
+
+
+</form>
 
 <!-- Starting the container section -->
 
