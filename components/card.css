@@ -19,17 +19,25 @@
   flex-wrap: wrap;
 }
 
-.card a {
-  margin: auto;
-}
-
-.card img {
-  width: 250px;
-}
-
 .card h3 {
   flex-grow: 1;
   font-size: 20px;
+  padding-left: 20px;
 }
 
+.card img,.card a {
+  width: 250px;
+  margin: auto;
+}
+
+
+.card i {
+  font-size: 20px;
+}
+
+/*card dress page */
+
+#white-dress img {
+  width: 225px;
+}
 

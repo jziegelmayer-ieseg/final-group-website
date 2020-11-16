@@ -1,15 +1,15 @@
-/* list style create section*/
-
+/*/* list style create section*/
+/*
 .registered {
 	background: #F8ECDD;
 	margin: 45px;
 	padding-bottom: 10px;
 	padding-top: 10px;
-}
+	}*/
 
-/* list style details section*/
+	/* list style details section*/
 
-.box {
+/*.box {
 	background: #F8F1EE;
 	color: #E1BFB5;
 	padding-top: 5px;
@@ -19,8 +19,8 @@
 	font-size: 10px;
 }
 
-.details {
-	margin-left: 25px;
+.details {*/
+/*	margin-left: 25px;
 
 }
 
@@ -38,10 +38,10 @@
 	padding-top: 5px;
 }
 
-
+*//**/*/
 /* list sytle signinsection */
 
-.signin-button {
+/*.signin-button {
 	background: #074A35;
 	width: 52px;
 	margin-left: 25px;
@@ -61,6 +61,6 @@
 	color: #EDCFA9;
 	font-size: 16px;
 }
-
+*/
 
 
