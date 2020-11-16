@@ -8,4 +8,10 @@
   background: rgba(237, 207, 169, 0.39);
 }
 
+.category ul{
+
+  width: 700px;
+  margin: 0 auto;
+  padding: 16px;
+}
 
