@@ -8,16 +8,9 @@
 @import url("components/delivery.css");
 @import url("components/profile.css");
 @import url("components/social-media.css");
-
-/*import home page */
-
 @import url("components/banner.css");
-@import url("components/comments.css");
-
 @import url("components/banner-dress.css");
 @import url("components/buy.css");
-@import url("components/card-dress.css");
-@import url("components/card-loggin.css");
 @import url("components/comments-loggin.css");
 @import url("components/create.css");
 @import url("components/details.css");
@@ -28,22 +21,16 @@
 @import url("components/mastercard.css");
 @import url("components/news.css");
 @import url("components/paypal.css");
-@import url("components/registered.css");
 @import url("components/summary-order.css");
 @import url("components/table-info.css");
 @import url("components/title-loggin.css");
 @import url("components/title-payment.css");
 @import url("components/visa.css");
 @import url("components/header-loggin.css");
-@import url("components/banner-aboutus.css");
 @import url("components/drop-down-menu.css");
 @import url("components/contact-us.css");
 @import url("components/workshop.css");
 @import url("components/loggin-form.css");
-
-
-
-
 
 /*colors and fonts, toujours copier*/
 
