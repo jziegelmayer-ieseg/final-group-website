@@ -1,6 +1,8 @@
 /* list sytle gallery section */
 
 .slidershowhome{
+	width: 100%;
+	height: 395px;
 	overflow: hidden;
  }
 
@@ -53,7 +55,7 @@ input[name="r"]{
 }
 
 .slidehome img{
-	width: 	46%;
+	width: 	100%;
 	height: 100%;
 }
 
