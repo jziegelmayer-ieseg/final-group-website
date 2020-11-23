@@ -1,3 +1,5 @@
+/* list sytle gallery section */
+
 .slidershowhome{
 	width: 3000px;
 	height: 395px;
@@ -53,7 +55,7 @@ input[name="r"]{
 }
 
 .slidehome img{
-	width: 	70%;
+	width: 	46%;
 	height: 100%;
 }
 
