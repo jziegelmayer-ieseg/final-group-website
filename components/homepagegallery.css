@@ -7,15 +7,14 @@
  }
 
 .middlehome {
-	position: absolute;
-	top: 35.8%;
-	transform: translate(0%, -15%);
-}
+	position: relative;
+ }
+
 
 .navigationhome {
 	position: absolute;
 	bottom: 20px;
-	left: 25%;
+	left: 50%;
 	transform: translateX(-50%);
 	display: flex;
 }
@@ -50,9 +49,7 @@ input[name="r"]{
 	transition: 0.6s;
 }
 
-#crop {
-	width: 1350px;
-}
+
 
 .slidehome img{
 	width: 	100%;
@@ -80,6 +77,4 @@ input[name="r"]{
 	padding-left: 20px;
 }
 
-.homepage {
-	margin-top: 325px;
-}
+
