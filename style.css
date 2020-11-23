@@ -196,8 +196,13 @@ ul {
   text-align: center;
 }
 
+#video-table p {
+  margin-top: 5px;
+  margin-bottom: 5px; 
+}
+
 #video-table {
-  margin: auto;
+  margin: 50px;
 }
 
 
