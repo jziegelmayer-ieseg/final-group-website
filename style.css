@@ -33,6 +33,8 @@
 @import url("components/loggin-form.css");
 @import url("components/gallery.css");
 @import url("components/homepagegallery.css");
+@import url("components/aboutus.css");
+
 
 /*colors and fonts, toujours copier*/
 
@@ -198,7 +200,7 @@ ul {
 
 #video-table p {
   margin-top: 5px;
-  margin-bottom: 5px; 
+  margin-bottom: 5px;
 }
 
 #video-table {
