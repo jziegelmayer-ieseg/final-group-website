@@ -85,6 +85,7 @@ ul {
 .list {
   list-style: none;
   font-size: 18px;
+  padding: 0px;
 }
 
 .list ul {
@@ -93,7 +94,7 @@ ul {
 
 .list li {
   display: inline;
-  padding-right: 100px;
+  padding-right: 5%;
 }
 
 /*list style delivery section, toujours copier*/
