@@ -1,51 +1,53 @@
-.slidershowhome{ 
+/* list sytle gallery section */
+
+.slidershowhome{
 	width: 3000px;
-	height: 395px; 
+	height: 395px;
 	overflow: hidden;
  }
 
 .middlehome {
 	position: absolute;
-	top: 35.8%;  
+	top: 35.8%;
 	transform: translate(0%, -15%);
 }
 
 .navigationhome {
 	position: absolute;
 	bottom: 20px;
-	left: 25%; 
+	left: 25%;
 	transform: translateX(-50%);
 	display: flex;
 }
 
 .barhome{
-	width: 25px; 
-	height: 10px; 
-	border: 2px solid #fff; 
-	margin: 5px; 
+	width: 25px;
+	height: 10px;
+	border: 2px solid #fff;
+	margin: 5px;
 	cursor: pointer;
 	transition: 0.4s;
 }
 
 .barhome:hover {
-	background: #fff; 
+	background: #fff;
 
 }
 
 input[name="r"]{
-	position: absolute; 
+	position: absolute;
 	visibility: hidden;
 }
 
 .slideshome {
-	width: 500%; 
-	height: 100%; 
+	width: 500%;
+	height: 100%;
 	display: flex;
 }
 
 .slidehome {
-	width: 20%; 
-	transition: 0.6s; 
+	width: 20%;
+	transition: 0.6s;
 }
 
 #crop {
@@ -53,29 +55,29 @@ input[name="r"]{
 }
 
 .slidehome img{
-	width: 	46%; 
-	height: 100%; 
+	width: 	46%;
+	height: 100%;
 }
 
 #r6:checked ~ .s1{
-	margin-left: 0; 
+	margin-left: 0;
 }
 
 #r7:checked ~ .s1{
-	margin-left: -20%; 
+	margin-left: -20%;
 }
 
 #r8:checked ~ .s1{
-	margin-left: -40%; 
+	margin-left: -40%;
 }
 
 #r9:checked ~ .s1{
-	margin-left: -60%; 
+	margin-left: -60%;
 }
 
 .overtext {
 	position: relative;
-	padding-left: 20px; 
+	padding-left: 20px;
 }
 
 .homepage {
