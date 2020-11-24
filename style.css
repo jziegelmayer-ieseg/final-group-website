@@ -208,8 +208,18 @@ ul {
   margin: 50px;
 }
 
+/*Payment comfirmation*/
 
+.list-payment {
+  list-style: none;
+  padding-left: 0px;
+  font-size: 14px;
+  color: #F6DAC8
+}
 
-
+.list-payment li {
+  display: inline-block;
+  padding:15px;
+}
 
 
