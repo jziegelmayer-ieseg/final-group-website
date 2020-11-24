@@ -1,22 +1,43 @@
-/* list sytle buy-button section */ 
+/* list sytle buy-button section */
 
 .buy-button {
 	background: #074A35;
 	margin: 0px;
 	width: 52px;
 	margin-left: 100px;
-	padding-left: 25px; 
-	padding-right: 25px; 
-	margin-top: 10px; 
-	margin-bottom: 10px; 
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 
 }
 
 .buy-button-text  {
-	color: #EDCFA9; 
-	font-size: 16px; 
+	color: #EDCFA9;
+	font-size: 16px;
 }
 
-button .us {
-	width: 25px; 
+.button .us {
+	width: 25px;
+}
+
+.button-payment{
+
+	display: inline-block;
+	margin-left: 50px;
+	text-align: center;
+	color: #EDCFA9;
+	font-size: 16px;
+	width: 300px;
+}
+.congrats {
+	background-color: #EDCFA9;
+margin-bottom: 40px;
+	height: 60px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.congrats h1{
+	text-align: center;
+	margin: 20px;
 }
